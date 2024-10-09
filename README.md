@@ -39,6 +39,7 @@ elif adult
     print category and age
 elif senior
     print category and age
+
 Approach 2
 
 Get age in months
@@ -51,6 +52,7 @@ elif teenager
     print category and age
 elif kitten
     print category and age
+
 Approach 3
 
 Get age in months
@@ -63,6 +65,7 @@ if adult
     print category and age
 if senior
     print category and age
+
 Approach 4
 
 Get age in months
